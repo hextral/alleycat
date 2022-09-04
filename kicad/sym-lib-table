@@ -1,4 +1,4 @@
 (sym_lib_table
   (lib (name "cumsys")(type "Legacy")(uri "${KIPRJMOD}/libs/SamacSys_Parts.lib")(options "")(descr ""))
-  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
 )
