@@ -2364,7 +2364,7 @@
   )
 
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 34.29 142.24 0) (unit 1)
-    (in_bom yes) (on_board yes)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 212c973d-2dcf-4d5a-999c-4b68549f39b7)
     (property "Reference" "MX2" (id 0) (at 35.1756 135.89 0)
       (effects (font (size 1.524 1.524)))
