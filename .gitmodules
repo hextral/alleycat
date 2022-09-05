@@ -1,3 +1,6 @@
 [submodule "kicad/libs/MX_Alps_Hybrid"]
 	path = kicad/libs/MX_Alps_Hybrid
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
+	path = kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
+	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty.git
