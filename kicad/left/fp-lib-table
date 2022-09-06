@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "cumsys")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "KiCad")(uri "${KIPRJMOD}/libs/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/libs/3dmodels/SamacSys_Parts.3dshapes")(options "")(descr ""))
+  (lib (name "E73-2G4M08S1C")(type "KiCad")(uri "${KIPRJMOD}/libs/E73-2G4M08S1C")(options "")(descr ""))
+  (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32")(type "KiCad")(uri "${KIPRJMOD}/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty")(options "")(descr ""))
+  (lib (name "MX")(type "KiCad")(uri "${KIPRJMOD}/libs/footprints/MX.pretty")(options "")(descr ""))
+)
