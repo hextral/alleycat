@@ -4429,7 +4429,7 @@
     (uuid 34a9dc99-5ad8-4b25-988b-4ecfd1ccb6d1)
     (property "Reference" "J2" (id 0) (at 216.535 15.24 0))
     (property "Value" "USB_C_Receptacle_USB2.0" (id 1) (at 216.535 17.78 0))
-    (property "Footprint" "" (id 2) (at 220.345 38.735 0)
+    (property "Footprint" "MX:TYPE-C-31-M-12" (id 2) (at 220.345 38.735 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" (id 3) (at 220.345 38.735 0)
@@ -6211,7 +6211,7 @@
       (reference "J1") (unit 1) (value "Conn_01x04_Female") (footprint "")
     )
     (path "/34a9dc99-5ad8-4b25-988b-4ecfd1ccb6d1"
-      (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "")
+      (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "MX:TYPE-C-31-M-12")
     )
     (path "/9bd6d535-7d29-4770-92a1-5b2eb4caf31e"
       (reference "J3") (unit 1) (value "Conn_01x04_Male") (footprint "KiCad-SSD1306-0.91-OLED-4pin-128x32:SSD1306-0.91-OLED-4pin-128x32")
