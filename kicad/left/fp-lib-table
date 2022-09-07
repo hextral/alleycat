@@ -5,4 +5,6 @@
   (lib (name "E73-2G4M08S1C")(type "KiCad")(uri "${KIPRJMOD}/../libs/E73-2G4M08S1C")(options "")(descr ""))
   (lib (name "KiCad-SSD1306-0.91-OLED-4pin-128x32")(type "KiCad")(uri "${KIPRJMOD}/../libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty")(options "")(descr ""))
   (lib (name "MX")(type "KiCad")(uri "${KIPRJMOD}/../libs/footprints/MX.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/../libs/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/../libs/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
 )

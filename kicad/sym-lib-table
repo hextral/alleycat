@@ -1,6 +1,6 @@
 (sym_lib_table
   (lib (name "cumsys")(type "Legacy")(uri "${KIPRJMOD}/libs/SamacSys_Parts.lib")(options "")(descr ""))
-  (lib (name "marbastlib-choc")(type "KiCad")(uri "C:/Users/nya/Downloads/marbastlib-main/marbastlib-main/marbastlib-choc.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-mx")(type "KiCad")(uri "C:/Users/nya/Downloads/marbastlib-main/marbastlib-main/marbastlib-mx.kicad_sym")(options "")(descr ""))
-  (lib (name "marbastlib-various")(type "KiCad")(uri "C:/Users/nya/Downloads/marbastlib-main/marbastlib-main/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/libs/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
 )

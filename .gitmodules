@@ -4,3 +4,6 @@
 [submodule "kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
 	path = kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
 	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty.git
+[submodule "kicad/libs/marbastlib"]
+	path = kicad/libs/marbastlib
+	url = https://github.com/ebastler/marbastlib
