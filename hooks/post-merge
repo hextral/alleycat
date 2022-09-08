@@ -1,0 +1,7 @@
+#!/bin/sh
+echo "Updating schematics"
+
+cp ./kicad/alleycat.kicad_sch ./kicad/left/alleycat_left.kicad_sch
+echo "kicad/left/alleycat_left.kicad_sch"
+cp ./kicad/alleycat.kicad_sch ./kicad/right/alleycat_right.kicad_sch
+echo "kicad/right/alleycat_right.kicad_sch"
