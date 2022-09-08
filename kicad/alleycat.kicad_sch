@@ -2365,7 +2365,6 @@
     )
   )
 
-
   (junction (at 80.645 217.805) (diameter 0) (color 0 0 0 0)
     (uuid 0009e75a-52cf-47dd-b252-bbec46c0d251)
   )
@@ -4660,13 +4659,6 @@
     (uuid 7136e0db-32ca-4bbb-982a-cd0ff6e5c7b2)
     (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 282.1155 49.4506 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
-    )
-  )
-  (global_label "vbus" (shape input) (at 45.72 266.7 270) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right))
-    (uuid 77f1d551-35c0-4a97-8838-b2631cfa2624)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 45.6406 273.4069 90)
-      (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
   (global_label "VSENSE" (shape input) (at 300.99 146.05 0) (fields_autoplaced)
@@ -7152,6 +7144,22 @@
     (pin "2" (uuid f25c4c04-f37c-436c-970c-5b2b1c27ca4c))
   )
 
+  (symbol (lib_id "power:+5V") (at 45.72 266.7 180) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid cbf94107-943d-4133-8ad6-7916fb9ebd37)
+    (property "Reference" "#PWR?" (id 0) (at 45.72 262.89 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5V" (id 1) (at 45.72 271.78 0))
+    (property "Footprint" "" (id 2) (at 45.72 266.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 45.72 266.7 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 39da0d07-b676-4817-bb11-70aa4daf4abc))
+  )
+
   (symbol (lib_id "Device:R_Small") (at 163.83 140.97 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid ccd39a3f-fa46-49cf-bcc7-73c9e6bbae74)
@@ -7737,6 +7745,9 @@
     )
     (path "/da0b6480-b19c-4d5f-ba42-bf8d27c02d2d"
       (reference "#PWR027") (unit 1) (value "+3.3V") (footprint "")
+    )
+    (path "/cbf94107-943d-4133-8ad6-7916fb9ebd37"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/e80f4818-6806-41f2-b9c3-d610345fa90c"
       (reference "C1") (unit 1) (value "10uf") (footprint "Capacitor_SMD:C_0805_2012Metric")
