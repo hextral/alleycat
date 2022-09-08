@@ -7,3 +7,6 @@
 [submodule "kicad/libs/marbastlib"]
 	path = kicad/libs/marbastlib
 	url = https://github.com/ebastler/marbastlib
+[submodule "kicad/libs/Keebio-Parts.pretty"]
+	path = kicad/libs/Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty
