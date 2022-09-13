@@ -46,4 +46,19 @@
   (pad "" np_thru_hole circle (at 3.305 0) (size 3 3) (drill 3) (layers *.Cu *.Mask) (tstamp e33431e1-9e29-4f76-b6bb-a38a87f0f2b9))
   (pad "1" smd rect (at 0.03 0) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp d4929161-fb24-4eca-b8ff-f887b19a7129))
   (pad "2" smd rect (at 12.957 -2.54) (size 2.55 2.5) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 2f579e02-3918-4625-9629-718814d72320))
+  (model ":models:Kailh Polia.step"
+    (offset (xyz 7.123 -2.53 4.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
+  (model ":models:DSA_Keycap_CherryMX.step"
+    (offset (xyz 7 -2.5 11))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+  (model ":models:Kailh Hotswap MX v22.step"
+    (offset (xyz 6.5 2.25 -3.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -180))
+  )
 )
