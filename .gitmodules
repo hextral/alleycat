@@ -3,10 +3,10 @@
 	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
 [submodule "kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty"]
 	path = kicad/libs/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
-	url = https://github.com/gorbachev/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty.git
+	url = https://github.com/hextral/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty
 [submodule "kicad/libs/marbastlib"]
 	path = kicad/libs/marbastlib
-	url = https://github.com/ebastler/marbastlib
+	url = https://github.com/hextral/marbastlib
 [submodule "kicad/libs/Keebio-Parts.pretty"]
 	path = kicad/libs/Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
