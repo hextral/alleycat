@@ -8,4 +8,5 @@
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/../libs/marbastlib/marbastlib-various.pretty")(options "")(descr ""))
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/../libs/marbastlib/marbastlib-mx.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/../libs/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "teire lib")(type "KiCad")(uri "C:/Users/nya/Desktop/git/alleycat/kicad/libs/teire lib")(options "")(descr ""))
 )
