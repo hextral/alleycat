@@ -6409,7 +6409,7 @@
     (uuid 80ece84b-18d0-4126-af64-908a1c7d4ea8)
     (property "Reference" "U2" (id 0) (at 180.975 116.84 0))
     (property "Value" "TP4056" (id 1) (at 180.975 119.38 0))
-    (property "Footprint" "Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm" (id 2) (at 180.34 116.84 0)
+    (property "Footprint" "Package_SO:SOP-8_3.76x4.96mm_P1.27mm" (id 2) (at 180.34 116.84 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://datasheet.lcsc.com/szlcsc/1906261508_Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.pdf" (id 3) (at 180.34 116.84 0)
@@ -7147,7 +7147,7 @@
   (symbol (lib_id "power:+5V") (at 45.72 266.7 180) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid cbf94107-943d-4133-8ad6-7916fb9ebd37)
-    (property "Reference" "#PWR?" (id 0) (at 45.72 262.89 0)
+    (property "Reference" "#PWR0101" (id 0) (at 45.72 262.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+5V" (id 1) (at 45.72 271.78 0))
@@ -7747,7 +7747,7 @@
       (reference "#PWR027") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/cbf94107-943d-4133-8ad6-7916fb9ebd37"
-      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+      (reference "#PWR0101") (unit 1) (value "+5V") (footprint "")
     )
     (path "/e80f4818-6806-41f2-b9c3-d610345fa90c"
       (reference "C1") (unit 1) (value "10uf") (footprint "Capacitor_SMD:C_0805_2012Metric")
@@ -8086,7 +8086,7 @@
       (reference "U1") (unit 1) (value "nRF52840_holyiot_18010") (footprint "marbastlib-various:nRF52840_holyiot_18010")
     )
     (path "/80ece84b-18d0-4126-af64-908a1c7d4ea8"
-      (reference "U2") (unit 1) (value "TP4056") (footprint "Package_SO:SOP-8-1EP_4.57x4.57mm_P1.27mm_EP4.57x4.45mm")
+      (reference "U2") (unit 1) (value "TP4056") (footprint "Package_SO:SOP-8_3.76x4.96mm_P1.27mm")
     )
     (path "/3e90c7eb-e997-4415-900d-3f8c14c03069"
       (reference "U3") (unit 1) (value "DW01A") (footprint "Package_TO_SOT_SMD:SOT-23-6")
